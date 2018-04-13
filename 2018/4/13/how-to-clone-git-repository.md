@@ -1,4 +1,4 @@
-#  My First Git Cloning
+# My First Git Cloning
 
 When you're working on a project, chances are that you're going to have a bunch of different features and ideas going on at any given time.
 This is where Git comes in handy and makes your life easier (if you're not allergic to technology and a little bit of geekiness, that is)
@@ -12,9 +12,9 @@ Creating a repository is the first thing you'll have to do. Simply click on the 
 
 That was easy, right? What follows now is to clone it (make a copy of it, in simple words)
 
-##Go to SourceTree
+## Go to SourceTree
 
-SourceTree facilitates the usage of Git. You can download it [here](https://www.sourcetreeapp.com/)
+SourceTree facilitates the usage of Git. You can [get SourceTree here.](https://www.sourcetreeapp.com/)
 
 Here is how you can clone a file in a couple of easy steps:
 
