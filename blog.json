@@ -1,4 +1,24 @@
 [
+  {
+      "title": "How to Clone Git Repository",
+      "url": "how-to-clone-git-repository",
+      "author": "iMazing Team",
+      "publisher": "DigiDNA",
+      "datePublished": "2018-04-13 13:00:00",
+      "dateModified": "2018-04-13 13:00:00",
+      "image": "/uploads/blog/sourcetree-screenshot",
+      "category": [
+          "Git"
+      ],
+      "published": true,
+      "tags": [
+          "iphone",
+          "backup",
+          "ios",
+          "icloud",
+          "imazing"
+      ]
+  },
     {
         "title": "Why Backing Up iPhone Still Matters?",
         "url": "why-backing-up-iphone-still-matters",
